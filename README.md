@@ -1,13 +1,17 @@
 
 # Verilog and SystemVerilog Template Library
 
-file:///c%3A/Users/priya/OneDrive/Attachments/vs.html/.vscode/index.html[http://127.0.0.1:5500/.vscode/index.html#about]
+## Live Website
+
+[Explore the Verilog & SystemVerilog Template Library](https://verilog-systemverilog-template-libr.vercel.app/)
+
+**Local Development Server:** [Open the website locally](http://127.0.0.1:5500/.vscode/index.html#about)
 
 Browse 50 templates with searchable templates, language filters, explanations, examples, truth tables where applicable, and memory tips.
 
-vedant upadhyay  
-b.Tech — VLSI Design  
-indore institute of science and technology
+**Vedant Upadhyay**  
+Electronics and Communication Engineering  
+Indore Institute of Science and Technology, Indore
 
 A collection of 50 educational Verilog and SystemVerilog templates covering digital circuits, RTL design, and verification programming concepts.
 
@@ -21,6 +25,8 @@ The library combines source code with explanations, small examples, relevant tab
 - Truth tables and state-transition tables where relevant.
 - Examples showing expected behavior.
 - Code walkthroughs and tips for remembering the logic.
+- Interactive website with searchable templates and language filters.
+- Copy-code functionality for source files.
 
 ## Folder Organization
 
@@ -29,14 +35,18 @@ The library combines source code with explanations, small examples, relevant tab
 | `1.verilog` | Verilog source files for Templates 01–30 |
 | `2.system verilog` | SystemVerilog source files for Templates 31–50 |
 | `3.Explanation` | Explanations for all 50 templates |
+| `.vscode` | Local website development files, if stored here |
 | `README.md` | Project introduction and topic index |
 
 ## How to Use
 
-1. Choose a topic from the index below.
-2. Read its explanation and example.
-3. Open the matching source file in the appropriate folder.
-4. Check the interface, reset behavior, parameters, and dependencies before adapting the code.
+1. Open the live website or start the local development server.
+2. Choose a topic from the template index.
+3. Search for a template or filter by language.
+4. Read its explanation and example.
+5. Review the matching Verilog or SystemVerilog source file.
+6. Use the copy-code button to copy the selected source code.
+7. Check the interface, reset behavior, parameters, and dependencies before adapting the code.
 
 These templates are independent learning examples, not one combined hardware design.
 
@@ -163,19 +173,29 @@ Expected results in the explanations are illustrative, not recorded simulation r
 - Align Template 12's explanation with its fixed four-bit source module and `bin` input name.
 - Repair the S0 row in Template 29's state-meaning table.
 
-## Planned Website
+## Website Features
 
-A browsable website is planned with:
+- Browse 50 Verilog and SystemVerilog templates.
+- Search templates by name or topic.
+- Filter templates by programming language.
+- Read explanations and examples in Markdown format.
+- View source code in a dedicated code viewer.
+- Copy source code directly from the website.
+- Access the project repository on GitHub.
+- Use the responsive interface on desktop and mobile devices.
 
-- Topic search and category filters.
-- Readable code and copy buttons.
-- Explanations, examples, tables, and memory tips.
-- Links to the source repository.
+## Running Locally
 
-The public website link will be added after deployment.
+1. Open the project folder in Visual Studio Code.
+2. Make sure `index.html`, `style.css`, and `script.js` are in their expected locations.
+3. Install the Live Server extension if it is not already installed.
+4. Right-click `index.html` and select **Open with Live Server**.
+5. Open the local development URL in your browser.
+
+The local link above works only while the local server is running and the project is available at that path. It is not a public website URL.
 
 ## About the Author
 
-I am Shashank Singh, pursuing an M.Tech in VLSI Design at Thapar Institute of Engineering & Technology.
+I am **Vedant Upadhyay**, an Electronics and Communication Engineering student at **Indore Institute of Science and Technology, Indore**.
 
-I am building this library to strengthen my understanding of digital design and SystemVerilog and to share an organized learning reference with other students.
+I am building this library to strengthen my understanding of digital design, RTL development, and SystemVerilog verification while sharing an organized learning resource with other students interested in VLSI and chip design.
