@@ -1,9 +1,7 @@
 
 # Verilog and SystemVerilog Template Library
 
-## Live Website
 
-[Explore the Verilog & SystemVerilog Template Library](https://verilog-systemverilog-template-libr.vercel.app/)
 
 Browse 50 templates with searchable templates, language filters, explanations, examples, truth tables where applicable, and memory tips.
 
