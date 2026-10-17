@@ -1,17 +1,63 @@
+# Verilog and SystemVerilog Template Library
 
-## GitHub Repository
+A collection of reusable Verilog and SystemVerilog code templates designed to help students, FPGA developers, RTL designers, and VLSI enthusiasts learn digital design faster and build hardware projects efficiently.
 
-[View My Verilog and SystemVerilog Template Library on GitHub](https://github.com/priyanshuupadhyay422-cmd/verilog-systemverilog-template)
+## Live Website
 
-## About the Author
+[Explore the Verilog & SystemVerilog Template Library](https://verilog-systemverilog-template-libr.vercel.app/)
 
-I am **Vedant Upadhyay**, an Electronics and Communication Engineering student at **Indore Institute of Science and Technology, Indore**.
+## Local Development Server
 
-I am building this library to strengthen my understanding of digital design, RTL development, Verilog, SystemVerilog, and hardware verification while sharing useful learning resources with other students interested in VLSI and chip design.
+[Open the website locally](http://127.0.0.1:5500/.vscode/index.html#about)
 
-## Acknowledgment
+## Overview
 
-The project is inspired by the original Verilog and SystemVerilog Template Library created by **Shashank Singh**, an M.Tech student in VLSI Design at Thapar Institute of Engineering & Technology.
+This project provides a centralized collection of Verilog and SystemVerilog templates for common digital logic components and RTL design tasks. It aims to make hardware description language learning, coding, and experimentation easier.
 
-Original project: [shashankx99/verilog-systemverilog-template-library](https://github.com/shashankx99/verilog-systemverilog-template-library)
+## Features
 
+- Collection of 50 Verilog and SystemVerilog templates
+- Reusable code for digital design and RTL development
+- Helpful resource for beginners and hardware design students
+- Supports learning FPGA and ASIC design fundamentals
+- Useful for practicing, modifying, and testing HDL code
+
+## Who Is This For?
+
+- Electronics and Communication Engineering students
+- Beginners learning Verilog and SystemVerilog
+- FPGA developers working with Vivado
+- RTL design and verification enthusiasts
+- VLSI and ASIC design learners
+
+## Getting Started
+
+1. Visit the [live website](https://verilog-systemverilog-template-libr.vercel.app/).
+2. Browse the available templates.
+3. Select and copy the code you need.
+4. Run and verify the code using a compatible HDL simulator, such as Icarus Verilog or Vivado.
+5. Modify the templates to suit your project requirements.
+
+## Tools and Technologies
+
+- Verilog HDL
+- SystemVerilog
+- FPGA and ASIC design workflows
+- HDL simulation tools such as Icarus Verilog and Xilinx Vivado
+
+## Contributing
+
+Contributions are welcome! You can help improve this project by adding new templates, fixing errors, improving explanations, and suggesting useful digital design examples.
+
+1. Fork this repository.
+2. Create a new branch.
+3. Make your changes.
+4. Submit a pull request with a clear description of your contribution.
+
+## Purpose
+
+The goal of this project is to make Verilog and SystemVerilog resources easier to access and help learners strengthen their RTL design skills through practical examples.
+
+---
+
+**Happy Coding and RTL Designing!**
