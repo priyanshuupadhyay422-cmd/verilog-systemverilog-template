@@ -1,7 +1,7 @@
 
 # Verilog and SystemVerilog Template Library
 
-file:///c%3A/Users/priya/OneDrive/Attachments/vs.html/.vscode/index.html[file:///c%3A/Users/priya/OneDrive/Attachments/vs.html/.vscode/index.html]
+file:///c%3A/Users/priya/OneDrive/Attachments/vs.html/.vscode/index.html[http://127.0.0.1:5500/.vscode/index.html#about]
 
 Browse 50 templates with searchable templates, language filters, explanations, examples, truth tables where applicable, and memory tips.
 
