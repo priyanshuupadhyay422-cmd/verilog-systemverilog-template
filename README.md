@@ -77,7 +77,7 @@ gtkwave dump.vcd
 
 The `website/` folder contains a browsable version of the templates and explanations.
 
-- **Live site:** [verilog-systemverilog-template-libr.vercel.app](https://verilog-systemverilog-template-libr.vercel.app/)
+
 - **Run it locally:** open the `website/` folder in VS Code, right-click `index.html`, and choose **Open with Live Server**. It will open at `http://127.0.0.1:5500/`.
 
 ---
