@@ -111,3 +111,8 @@ No license has been added yet. Add a `LICENSE` file (for example MIT) to state h
 
 If this helps you, consider giving the repo a star.
 , consider giving the repo a star.
+
+
+## Live Website
+
+Browse the Verilog and SystemVerilog templates online: https://priyanshuupadhyay422-cmd.github.io/verilog-systemverilog-template/
