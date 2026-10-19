@@ -3,7 +3,8 @@
 // Your public GitHub repository.
 const RAW_BASE =
   "https://raw.githubusercontent.com/" +
-  "shashankx99/verilog-systemverilog-template-library/main/";
+  "priyanshuupadhyay422-cmd/verilog-systemverilog-template/main/";
+
 
 // These names match your existing files.
 // The number and extension are added automatically.
@@ -65,7 +66,7 @@ const templates = templateNames.map(([filename, title], index) => {
   const id = index + 1;
   const number = String(id).padStart(2, "0");
   const isVerilog = id <= 30;
-  const folder = isVerilog ? "1.verilog" : "2.system verilog";
+  const folder = isVerilog ? "verilog" : "system_verilog";
   const extension = isVerilog ? "v" : "sv";
   const basename = `${number}_${filename}`;
 
@@ -77,7 +78,7 @@ const templates = templateNames.map(([filename, title], index) => {
     language: isVerilog ? "verilog" : "systemverilog",
     languageLabel: isVerilog ? "Verilog" : "SystemVerilog",
     codePath: `${folder}/${basename}.${extension}`,
-    explanationPath: `3.Explanation/${basename}.md`
+    explanationPath: `explanation/${basename}.md`
   };
 });
 
